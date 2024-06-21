@@ -1,13 +1,16 @@
 
 body {
-    background-color: rgb(102, 248, 248);
+    background-color: black;
 }
-.center {
+
+.Main {
+    color: aqua;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .menu {
+    color: wheat;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid;
@@ -18,11 +21,12 @@ body {
 }
 
 .name {
+    color: blanchedalmond;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid;
     padding: 10px;
-    width: 200px;
+    width: 250px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
@@ -34,6 +38,7 @@ div {
 }
 
 .content {
+    color: aliceblue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid;
